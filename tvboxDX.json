@@ -3,14 +3,14 @@
 "wallpaper":"./t/",
 "logo":"./LOGO2.gif",
 "spider":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22","warningText":"tv提示:
-📢爱家影视 
+📢康兄影视 
 📢欢迎你",
 
 
 "lives":[
 {"name":"欧歌APP","type":0,"url":"http://ficfac.com/box/ijia.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"IPV4V6","type":0,"url":".http://ficfac.com/box/ijia2.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
-],
+]，
 "sites": [
     {
        
@@ -22,7 +22,7 @@
 "quickSearch": 0,
 "filterable": 1,
 "ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"
-},
+}，
 { 
             
        
